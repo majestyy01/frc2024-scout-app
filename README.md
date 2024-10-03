@@ -1,6 +1,3 @@
-![image](https://github.com/user-attachments/assets/d9c284c9-6b15-4f17-8e2a-11c1f091e0f2)
-
-
 I'm a little late to do this :D
 
 # Info
@@ -16,3 +13,5 @@ Kullanıcı Dostu Arayüz: Kolay kullanılabilir bir arayüz ile kullanıcılar�
 Veri İhracı: Toplanan verilerin CSV formatında dışa aktarılması.
 
 Performans Grafikleri: Takımın performansını görsel olarak izlemek için grafikler ve tablolar sunar.
+
+![image](https://github.com/user-attachments/assets/d9c284c9-6b15-4f17-8e2a-11c1f091e0f2)
